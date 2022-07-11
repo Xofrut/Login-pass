@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: rgb(249, 240, 228);
+    margin-bottom: 1000px;
+}
+
+.base input{
+    padding-left: 30px;
+}
+
+.login{
+    padding-bottom: 10px;
+}
+
+button{
+    margin-top: 10px;
+}
